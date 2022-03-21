@@ -1,5 +1,5 @@
 # MachineLearning
-In this repository,a basic overview of Data Analysis and Data Visualization libraries such as NumPy, Pandas, Matplotlib, Seaborne along with machine learning libraries such as Scikit-learn, TensorFlow is provided.
+In this repository,a basic overview of Data Analysis and Data Visualization libraries such as NumPy, Pandas, Matplotlib, Seaborne and machine learning libraries such as Scikit-learn is provided.
 
 <h3>Numpy</h3> NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
